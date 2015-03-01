@@ -1,2 +1,2 @@
 # hellojulie
-dev
+Portfolio dev - Front End Developer Julie
